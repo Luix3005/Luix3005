@@ -1,6 +1,6 @@
-<h2 align="left">Olá 👋! Meu nome é Luiz Felipe</h2>
+## <h2 align="left">Olá 👋! Meu nome é Luiz Felipe</h2>
 
-# 💫 Sobre mim:
+💫 Sobre mim:
 um apaixonado por tecnologia e desenvolvimento FrontEnd, com foco especial em criar experiências incríveis e me aprimorar para me tornar um Full Stack
 
 
