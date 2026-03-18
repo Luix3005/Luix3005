@@ -1,6 +1,6 @@
 # Olá, eu sou Luiz Felipe 👋
 
-Sou estudante de Engenharia de Software com foco em Análise de Dados. Busco oportunidades como Analista de Dados Júnior para aplicar e ampliar meus conhecimentos em Python, Power BI, SQL e Excel. Tenho experiência em projetos pessoais voltados à automação de relatórios e visualização de dados, com interesse em transformar informações em insights valiosos para apoiar decisões estratégicas.
+Sou Formado em Engenharia de Software com foco em Análise de Dados. Busco oportunidades como Analista de Dados Júnior para aplicar e ampliar meus conhecimentos em Python, Power BI, SQL e Excel. Tenho experiência em projetos pessoais voltados à automação de relatórios e visualização de dados, com interesse em transformar informações em insights valiosos para apoiar decisões estratégicas.
 
 ## Tecnologias e Habilidades
 - **Linguagens:** Python, SQL
@@ -14,6 +14,7 @@ Sou estudante de Engenharia de Software com foco em Análise de Dados. Busco opo
 - Criação de logos, banners e artes visuais personalizadas para redes sociais e marcas.
 - Comunicação direta com clientes para entender necessidades e propor soluções visuais.
 - Aprimoramento da presença digital de microempresas e empreendedores por meio de soluções personalizadas.
+- Alguns sites trabalhados: Instituto MDT, Thiago Imports, Linda Carolina e etc
 
 ## Projetos em Destaque
 - [Automação de Relatórios no Power BI](https://github.com/Luix3005/automacao-powerbi) – Desenvolvimento de automação para gerar e atualizar relatórios automaticamente em Excel integrados ao Power BI, reduzindo tempo de atualização e erros manuais.
